@@ -1,1 +1,1 @@
-# GuessThe-NUmber
+# GuessTheNumber
